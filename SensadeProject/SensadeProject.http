@@ -1,0 +1,4 @@
+@SensadeProject_HostAddress = http://localhost:5001
+
+GET {{SensadeProject_HostAddress}}/sensade/
+Accept: application/json
